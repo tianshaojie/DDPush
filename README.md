@@ -28,4 +28,4 @@ DDPush提供的Android手机App示例demo，连续在线48小时耗电少于0.5 
 
 DDPush基于自有的二进制网络传输协议（基于TCP和UDP），因此客户端可以支持各种类型的终端设备，包括各种智能手机、平板、智能设备、物联网硬件，和各种终端操作系统（包括: Android, Windows, Linux等）。
 DDPush使用Java语言开发，因此服务端可运行在各种操作系统和服务器上。
-![DDPush](http://jsbd.github.io/images/jvm_status/jhat-browser.png)
+![DDPush](http://jsbd.github.io/images/ddpush.jpg)
