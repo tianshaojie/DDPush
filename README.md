@@ -22,13 +22,13 @@ DDPush在线部分主要采用UDP协议（同时支持TCP协议），支撑1000�
 DDPush推送部分采取TCP协议和Java NIO非阻塞网络技术，普通PC可支持至少数千台应用服务器同时长连接推送信息到终端，每秒推送信息的速度在1万条以上
 ### 终端设备流量少，省电
 采用DDPush，智能手机等终端设备在线一个月（空载的情况下），只需几百KB的上载流量，下载流量甚至可调节到为零。
-DDPush提供的Android手机App示例demo，连续在线48小时耗电少于0.5 mAh（使用2G网络GPRS连接，经360省电王测试  >>>详情）
+DDPush提供的Android手机App示例demo，连续在线48小时耗电少于0.5 mAh（使用2G网络GPRS连接，经360省电王测试  [>>>详情](http://jsbd.github.io/)）
 
 ## DDPush基于什么技术
 
 DDPush基于自有的二进制网络传输协议（基于TCP和UDP），因此客户端可以支持各种类型的终端设备，包括各种智能手机、平板、智能设备、物联网硬件，和各种终端操作系统（包括: Android, Windows, Linux等）。
 DDPush使用Java语言开发，因此服务端可运行在各种操作系统和服务器上。
-![DDPush](http://jsbd.github.io/images/ddpush.jpg)
+![DDPush](http://jsbd.github.io/images/ddpush/logo.jpg)
 
 ---
 
