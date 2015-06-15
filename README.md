@@ -2,7 +2,7 @@
 
 ## DDPush是什么
 
-DDPush (Dimension Door Push)，[任意门推送](https://github.com/jsbd/DDPush/wiki)，是一款开源免费的单机千万级实时信息推送服务器，使用Java语言开发，具有简单、稳定、高性能、高容量等特点，适用于互联网、移动互联网、物联网、Android、智能设备、硬件设备等各种环境。
+DDPush (Dimension Door Push)，[任意门推送WIKI](https://github.com/jsbd/DDPush/wiki)，是一款开源免费的单机千万级实时信息推送服务器，使用Java语言开发，具有简单、稳定、高性能、高容量等特点，适用于互联网、移动互联网、物联网、Android、智能设备、硬件设备等各种环境。
 
 ## DDPush可以做什么
 
